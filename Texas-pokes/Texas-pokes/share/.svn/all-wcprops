@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/17364/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share
+END
+rricon.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/rricon.png
+END
+QSyncHttp.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/QSyncHttp.h
+END
+NSURL+QAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/NSURL+QAdditions.h
+END
+QAsyncHttp.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/QAsyncHttp.h
+END
+QWeiboRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/QWeiboRequest.h
+END
+WBSDKTimelineViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/WBSDKTimelineViewController.h
+END
+QSyncHttp.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/QSyncHttp.m
+END
+CarrierInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/CarrierInfo.h
+END
+NSURL+QAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/NSURL+QAdditions.m
+END
+QAsyncHttp.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/QAsyncHttp.m
+END
+RJFShareViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/16672/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/RJFShareViewController.h
+END
+QWeiboRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/QWeiboRequest.m
+END
+WBSDKTimelineViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/15843/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/WBSDKTimelineViewController.m
+END
+smsicon.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/smsicon.png
+END
+CarrierInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/CarrierInfo.m
+END
+RJFShareViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/16672/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/RJFShareViewController.m
+END
+TimeViewOnTop.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/TimeViewOnTop.h
+END
+NSString+QEncoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/NSString+QEncoding.h
+END
+.DS_Store
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14062/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/.DS_Store
+END
+NSData+QBase64.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/NSData+QBase64.h
+END
+QQweiboicon.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14062/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/QQweiboicon.png
+END
+TimeViewOnTop.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/TimeViewOnTop.m
+END
+QWeiboAsyncApi.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/QWeiboAsyncApi.h
+END
+NSString+QEncoding.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/NSString+QEncoding.m
+END
+NSData+QBase64.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/NSData+QBase64.m
+END
+SinaWeiBoSDKDemoViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/15843/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/SinaWeiBoSDKDemoViewController.xib
+END
+QWeiboAsyncApi.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/QWeiboAsyncApi.m
+END
+MBProgressHUD.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/13877/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/MBProgressHUD.h
+END
+SinaWeiBoSDKDemoViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/SinaWeiBoSDKDemoViewController.h
+END
+MBProgressHUD.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/16813/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/MBProgressHUD.m
+END
+SinaWeiBoSDKDemoViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/17364/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/SinaWeiBoSDKDemoViewController.m
+END
+QOauth.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/QOauth.h
+END
+QQWeiBoViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/QQWeiBoViewController.h
+END
+QOauth.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/QOauth.m
+END
+QMutableURLRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/QMutableURLRequest.h
+END
+QOauthKey.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/QOauthKey.h
+END
+QQWeiBoViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/15843/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/QQWeiBoViewController.m
+END
+QMutableURLRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/QMutableURLRequest.m
+END
+QWeiboSyncApi.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/QWeiboSyncApi.h
+END
+QOauthKey.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/QOauthKey.m
+END
+QWeiboSyncApi.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/QWeiboSyncApi.m
+END

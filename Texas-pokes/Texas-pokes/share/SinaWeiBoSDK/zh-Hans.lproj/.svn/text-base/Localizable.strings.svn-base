@@ -1,0 +1,42 @@
+//
+//  Localizable.strings
+//  SinaWeiBoSDK
+//  Based on OAuth 2.0
+//
+//  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+//  EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+//  OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+//  NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+//  HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+//  WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+//  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+//  OTHER DEALINGS IN THE SOFTWARE.
+//
+//  Copyright 2011 Sina. All rights reserved.
+//
+
+"发送" = "发送";
+
+"关闭" = "关闭";
+
+"新浪微博" = "新浪微博";
+
+"确定" = "确定";
+
+"请输入微博内容" = "请输入微博内容";
+
+"取消" = "取消";
+
+"登录" = "登录";
+
+"用户名" = "用户名";
+
+"密码" = "密码";
+
+"积分说明" = "      积分分为游戏积分与比赛积分，可以为负值。\n      游戏积分：输赢筹码数的标志，输赢筹码损失或获得相应的积分，所得积分与获得筹码比例为1:1,玩家等级根据游戏积分确定。\n      比赛积分：比赛场第一名获得3点积分，比赛场第二名获得2点积分，其余玩家则扣除1点比赛积分。";
+
+"客服" = "乐乐德州扑克客服联系方式如下：\n客服电话：400-6011-296\n客服QQ：2561300982\n玩家QQ群：185134083\n客服邮箱：service@o-popo.com\n客服服务时间：9:00 - 18:00\n重庆品沃，乐乐游戏团队不胜感激！\n";
+
+"91兑换率" = "兑换率: 1 91豆 = 1 I豆 = 1W筹码";
+
+"兑换率" = "兑换率: 1 I豆 = 1W筹码";

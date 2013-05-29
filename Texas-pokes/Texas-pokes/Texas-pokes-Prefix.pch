@@ -1,0 +1,21 @@
+//
+// Prefix header for all source files of the 'Texas-pokes' target in the 'Texas-pokes' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+
+#warning Should Define CUSTOMID and DZPKCLINETPLATFORMFORi366Header right when distribution
+#define DZPKCUSTOMID                   1               //custom ID  1 means appstore
+#define DZPKCLINETPLATFORMFORi366Header      5                   //5 means ios nonbreak   9 means ios break
+#define DZPKCLIENTBUILDNUMBER           10             //clinet version
+
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif

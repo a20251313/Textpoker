@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/JSON
+END
+JSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/JSON/JSON.h
+END
+SBJsonBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/JSON/SBJsonBase.h
+END
+SBJsonParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/JSON/SBJsonParser.h
+END
+SBJsonWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/JSON/SBJsonWriter.h
+END
+SBJSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/JSON/SBJSON.h
+END
+SBJsonBase.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/JSON/SBJsonBase.m
+END
+SBJsonParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/JSON/SBJsonParser.m
+END
+SBJsonWriter.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/JSON/SBJsonWriter.m
+END
+NSObject+SBJSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/JSON/NSObject+SBJSON.h
+END
+NSString+SBJSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/JSON/NSString+SBJSON.h
+END
+SBJSON.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/JSON/SBJSON.m
+END
+NSObject+SBJSON.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/JSON/NSObject+SBJSON.m
+END
+NSString+SBJSON.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/12363/Texas_Poker/client/iphone/Texas-pokes/Texas-pokes/share/JSON/NSString+SBJSON.m
+END
